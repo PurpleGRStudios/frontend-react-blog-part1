@@ -1,5 +1,8 @@
 import './App.css'
 import logo from './assets/logo-white.png'
+import Home from './pages/Home/Home.jsx'
+import NewPost from './pages/New/NewPost.jsx'
+import ErrorPage from './pages/ErrorPage/ErrorPage.jsx'
 
 function App() {
     return (
