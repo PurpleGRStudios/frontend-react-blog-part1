@@ -14,3 +14,9 @@
 .page-container img {
     width: 500px;
 }
+
+.main-navigation-links{
+    display: flex;
+    justify-content: right;
+    gap: 100px;
+}

@@ -3,7 +3,9 @@ import './Home.css'
 
 function Home() {
     return (
-        <div className="Home"> We On THAT fr fr</div>
+        <div className="Home">
+            <h1> Home dit is thuis </h1>
+        </div>
     )
 }
 
